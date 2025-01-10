@@ -41,7 +41,7 @@ pip install numpy matplotlib scipy tqdm
 2. Run the `main_uw_rs.py` Python script:
 
 ```bash
-python <main_uw_rs.py>.py
+python <main_uw_rs>.py
 ```
 
 The script will simulate the communication system and display the performance metrics in graphical form.
@@ -77,9 +77,15 @@ The script outputs three performance plots for each modulation scheme:
 
 ## Author
 
-Developed by a simulation enthusiast with a focus on communication systems and error correction in underwater networks.
+This simulation framework was developed to advance research and education for error correction using RS coding in underwater communication systems. It aims to support the study of error correction techniques, modulation schemes, and reliable communication in challenging underwater environments.
 
 ## License
 
 This project is licensed under the MIT License.
+
+## Acknowledgment
+
+If you use this code, please acknowledge:
+Dr. Md Munjure Mowla   
+Email: rimonece@gmail.com
 
