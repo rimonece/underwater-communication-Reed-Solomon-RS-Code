@@ -38,10 +38,10 @@ pip install numpy matplotlib scipy tqdm
 ## Usage
 
 1. Clone or download the repository.
-2. Run the `main` Python script:
+2. Run the `main_uw_rs.py` Python script:
 
 ```bash
-python <script_name>.py
+python <main_uw_rs.py>.py
 ```
 
 The script will simulate the communication system and display the performance metrics in graphical form.
